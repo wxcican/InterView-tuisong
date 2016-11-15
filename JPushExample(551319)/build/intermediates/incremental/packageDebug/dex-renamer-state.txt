@@ -1,0 +1,7 @@
+#Tue Nov 15 10:13:21 GMT+08:00 2016
+base.0=F\:\\WangXC\\InterView-Explain\\InterView-jiguang\\InterView-tuisong\\JPushExample(551319)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_186d7244185b501a0385282f1752678b64a33fca
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\WangXC\\InterView-Explain\\InterView-jiguang\\InterView-tuisong\\JPushExample(551319)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_93edeb7d7252301d6345c63309f1ab77f99a0b18\\classes.dex
+base.1=F\:\\WangXC\\InterView-Explain\\InterView-jiguang\\InterView-tuisong\\JPushExample(551319)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_93edeb7d7252301d6345c63309f1ab77f99a0b18
+file.0=F\:\\WangXC\\InterView-Explain\\InterView-jiguang\\InterView-tuisong\\JPushExample(551319)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_186d7244185b501a0385282f1752678b64a33fca\\classes.dex
